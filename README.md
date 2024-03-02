@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate web development, AI,Cybersecurity and Aspiring Malware Analyst .</h3>
 
-<img align="center" width="1000" src="https://cdn.pixabay.com/photo/2023/05/26/00/23/ai-generated-8018471_1280.png" alt="oxo1" />
+<img align="center" width="1000" src="https://cdn.pixabay.com/photo/2023/05/18/23/22/hacker-8003393_1280.jpg" alt="oxo1" />
 
 - 🌱 I’m currently learning **Penetration Testing**
 
