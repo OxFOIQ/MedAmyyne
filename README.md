@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mzoughi Mohamed Amine</h1>
-<h3 align="center">A passionate web development, AI,Cybersecurity and Aspiring Malware Analyst .</h3>
+<h3 align="center">A passionate web development, AI, Cybersecurity and Aspiring Malware Analyst .</h3>
 <img align="right" width="1200" src="https://www.wallpaperflare.com/static/996/314/442/127-1-simple-typography-minimalism-wallpaper.jpg" alt="oxo1" />
 
 
