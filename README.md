@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mzoughi Mohamed Amine</h1>
-<img align="right" width="600" src="https://cdn.pixabay.com/photo/2023/05/26/00/23/ai-generated-8018471_1280.png" alt="oxo1" />
 
 <h3 align="center">A passionate web development, AI,Cybersecurity and Aspiring Malware Analyst .</h3>
+
+<img align="right" width="600" src="https://cdn.pixabay.com/photo/2023/05/26/00/23/ai-generated-8018471_1280.png" alt="oxo1" />
 
 - 🌱 I’m currently learning **Penetration Testing**
 
