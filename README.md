@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mzoughi Mohamed Amine</h1>
 
-<h3 align="center">A passionate web development, AI,Cybersecurity and Aspiring Malware Analyst .</h3>
+<h3 align="center">A passionate web development, AI,Cybersecurity & Aspiring Malware Analyst .</h3>
 
 <img align="center" width="1000" src="https://cdn.pixabay.com/photo/2023/05/18/23/22/hacker-8003393_1280.jpg" alt="oxo1" />
 
@@ -8,7 +8,10 @@
 
 - 👨‍💻 All of my projects are available at [https://medamine.vercel.app/](https://medamine.vercel.app/)
 
-- 💬 Ask me about **Network Security ,Security Awareness, Vulnerability Assessments , Penetration Testing**
+- 💬 Ask me about **Network Security , Ethical Hacking Techniques, tools, and methodologies.
+Penetration Testing , Identifying and addressing vulnerabilities.
+Security Best Practices , Securing applications and networks.
+Incident Response, Strategies for effective response and mitigation.**
 
 - 📫 How to reach me **MOHAMED.AMINE.MZOUGHI@EPISOUSSE.COM.TN**
 
